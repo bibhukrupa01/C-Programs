@@ -20,13 +20,13 @@ int is_palindrome(int n){
 
 int main(){
     int number;
-    printf("Enter a number. ");
+    printf("Enter a number:- ");
     scanf("%d", &number);
 
     if (is_palindrome(number)){
         printf("%d is a palindrome.", number);
     }
     else{
-        printf("%d is not a palindrome", number);
+        printf("%d is not a palindrome.", number);
     }
 }
