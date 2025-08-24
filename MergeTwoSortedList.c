@@ -1,4 +1,4 @@
-// Remove duplicate using singly linked list
+// Merge two sorted list using singly linked list
 
 #include <stdio.h>
 #include <stdlib.h>
